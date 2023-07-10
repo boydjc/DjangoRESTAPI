@@ -1,1 +1,3 @@
 DjangoRESTEnv
+backend/db.sqlite3
+py_client/
